@@ -1,0 +1,210 @@
+[
+  {
+    "pagina" : "Huelva",
+    "carousel" : ["../img/Huelva/1.jpg", "../img/Huelva/2.jpg", "../img/Huelva/3.jpg"],
+    "cards" : [
+      {
+        "imagen" : "../img/Huelva/4.jpg",
+        "title": "Datos",
+        "content" : "Huelva es una provincia española situada en el oeste de la comunidad autónoma de Andalucía y su capital es la ciudad de Huelva. Con una población de 519 229 habitantes a 1 de enero de 2014, ocupa el puesto 31 entre las provincias más pobladas a nivel nacional, además de ser la provincia menos poblada de Andalucía."
+      },
+      {
+        "imagen" : "../img/Huelva/5.jpg",
+        "title": "Ciudad",
+        "content" : "Limitando al norte con la de Badajoz, al este con la provincia de Sevilla, al sureste con la provincia de Cádiz, al sur con el océano Atlántico y al oeste con Portugal."
+      },
+      {
+        "imagen" : "../img/Huelva/6.jpg",
+        "title" : "Fauna",
+        "content" : "Doñana es un espacio natural protegido español situado en Andalucía y que cuenta con 122 487 ha. Comprende tanto el Parque Nacional de Doñana (creado en 1969) como el Parque Natural de Doñana (también llamado Parque Natural del Entorno de Doñana o preparque"
+      },
+      {
+        "imagen" : "../img/Huelva/7.jpg",
+        "title": "Flora",
+        "content" : "Creado en 1989 y ampliado en 1997), y su gran extensión de marismas acoge durante el invierno a numerosas especies de aves acuáticas, que suelen alcanzar cada año los 200 000 individuos."
+      }
+    ]
+  },
+  {
+    "pagina" : "Cadiz",
+    "carousel" : ["../img/Cadiz/1.jpg", "../img/Cadiz/2.jpg", "../img/Cadiz/3.jpg"],
+    "cards" : [
+      {
+        "imagen" : "../img/Cadiz/4.jpg",
+        "title": "Datos",
+        "content" : "La población de la provincia es de 1 251 149 habitantes,  de los cuales 639 656 viven en el área metropolitana de la Bahía de Cádiz-Jerez y 268 417 en el área metropolitana de la Bahía de Algeciras. Posee una superficie de 7435,85 km"
+      },
+      {
+        "imagen" : "../img/Cadiz/5.jpg",
+        "title": "Ciudad",
+        "content" : "Siendo su densidad de población de 166,68 hab./km². La ciudad más poblada es Jerez de la Frontera con 212 915 habitantes (2017)."
+      },
+      {
+        "imagen" : "../img/Cadiz/6.jpg",
+        "title" : "Fauna",
+        "content" : "Las principales actividades económicas son el turismo y otras actividades del sector terciario (67% del PIB provincial), seguido de las industrias (naval, aeronáutica, petroquímica...) "
+      },
+      {
+        "imagen" : "../img/Cadiz/7.jpg",
+        "title": "Flora",
+        "content" : "Que constituyen el 28% del PIB. La renta bruta per cápita es de €15 814, en el tercer trimestre de 2015 (INE). Además, la tasa de desempleo es una de las más elevadas del país."
+      }
+    ]
+  },
+  {
+    "pagina" : "Sevilla",
+    "carousel" : ["../img/Sevilla/1.jpg", "../img/Sevilla/2.jpg", "../img/Sevilla/3.jpg"],
+    "cards" : [
+      {
+        "imagen" : "../img/Sevilla/4.jpg",
+        "title": "Datos",
+        "content" : "Su capital es Sevilla, que también es la capital y ciudad más poblada de su comunidad autónoma. El Real Decreto de 30 de noviembre de 1833 creó la Provincia de Sevilla, que se formó uniendo localidades del Reino de Sevilla, excepto las que pasaron a formar parte de la provincia de Cádiz y de la provincia de Huelva"
+      },
+      {
+        "imagen" : "../img/Sevilla/5.jpg",
+        "title": "Ciudad",
+        "content" : "Asimismo, la nueva provincia de Sevilla incorporó Guadalcanal, que hasta entonces pertenecía a Extremadura, y perdió las poblaciones de Bodonal de la Sierra, Fuentes de León, Fregenal de la Sierra e Higuera la Real"
+      },
+      {
+        "imagen" : "../img/Sevilla/6.jpg",
+        "title" : "Fauna",
+        "content" : "Que pasaron a formar parte de la provincia de Badajoz, en Extremadura. Actualmente la provincia está compuesta por los municipios que pueden verse en el anexo Municipios de la provincia de Sevilla."
+      },
+      {
+        "imagen" : "../img/Sevilla/7.jpg",
+        "title": "Flora",
+        "content" : "Clima mediterráneo con temperatura media anual de 18,5 °C y una pluviosidad media (650 litros anuales), con inviernos suaves y veranos muy calurosos, con temperaturas máximas que superan a veces los 40º."
+      }
+    ]
+  },
+  {
+    "pagina" : "Malaga",
+    "carousel" : ["../img/Malaga/1.jpg", "../img/Malaga/2.jpg", "../img/Malaga/3.jpg"],
+    "cards" : [
+      {
+        "imagen" : "../img/Malaga/4.jpg",
+        "title": "Datos",
+        "content" : "El territorio que ocupa la provincia de Málaga estuvo habitado desde tiempos remotos, como prueban el conjunto de dólmenes de Antequera, las pinturas rupestres de la Cueva de Nerja, las primeras conocidas de la humanidad con más de 40 000 años de antigüedad"
+      },
+      {
+        "imagen" : "../img/Malaga/5.jpg",
+        "title": "Ciudad",
+        "content" : "Las de la Cueva de la Pileta en Benaoján y la Cueva del Tesoro en Rincón de la Victoria. Dominada por los primeros colonizadores mediterráneos, los fenicios en Malaka y los griegos en Toscanos y Mainake"
+      },
+      {
+        "imagen" : "../img/Malaga/6.jpg",
+        "title" : "Fauna",
+        "content" : "El antiguo reino musulmán de la Taifa de Málaga del siglo XI, quedando constituida en su configuración actual tras la división administrativa de 1833,3 conformándose con territorios adscritos en ese momento histórico a los antiguos reinos de Granada y de Sevilla."
+      },
+      {
+        "imagen" : "../img/Malaga/7.jpg",
+        "title": "Flora",
+        "content" : "Como es común en gran parte de España, la provincia ha tomado su nombre de su capital, la ciudad de Málaga. Por ello comparte con ella sus gentilicios oficiales, malagueño/a y malacitano/a, en alusión al antiguo topónimo fenicio Malaka. "
+      }
+    ]
+  },
+  {
+    "pagina" : "Jaen",
+    "carousel" : ["../img/Jaen/1.jpg", "../img/Jaen/2.jpg", "../img/Jaen/3.jpg"],
+    "cards" : [
+      {
+        "imagen" : "../img/Jaen/4.jpg",
+        "title": "Datos",
+        "content" : "Quedó constituida como provincia en la división administrativa de 1833, conformándose con las villas y ciudades del Reino de Jaén más algunos municipios hasta entonces pertenecientes al Campo de Montiel, como Beas, Chiclana y Montizón, y del Reino de Murcia"
+      },
+      {
+        "imagen" : "../img/Jaen/5.jpg",
+        "title": "Ciudad",
+        "content" : "El resto de la comarca de Sierra de Segura. Administrativamente está dividida en 97 municipios, agrupados en 10 partidos judiciales."
+      },
+      {
+        "imagen" : "../img/Jaen/6.jpg",
+        "title" : "Fauna",
+        "content" : "Se trata de una provincia muy relacionada con la mitología íbera y lugares ancestrales. Jaén es una provincia que tiene un altísimo potencial desde el punto de vista de su numeroso, rico y variado patrimonio."
+      },
+      {
+        "imagen" : "../img/Jaen/7.jpg",
+        "title": "Flora",
+        "content" : "Riqueza monumental, calidad de vida ambiental, el bosque de olivos mediterráneo, tierra de grandes bellezas interiores, pueden ser algunos de los rasgos más definitorios."
+      }
+    ]
+  },
+  {
+    "pagina" : "Granada",
+    "carousel" : ["../img/Granada/1.jpg", "../img/Granada/2.jpg", "../img/Granada/3.jpg"],
+    "cards" : [
+      {
+        "imagen" : "../img/Granada/4.jpg",
+        "title": "Datos",
+        "content" : "El pico más alto de la península ibérica, el Mulhacén, con una altura de 3482 metros, está situado en Granada. Comparte con la provincia de Almería el parque nacional de Sierra Nevada."
+      },
+      {
+        "imagen" : "../img/Granada/5.jpg",
+        "title": "Ciudad",
+        "content" : "La Alhambra consiste en un conjunto de antiguos palacios, jardines y fortaleza inicialmente concebido para alojar al emir y la corte del Reino nazarí, más tarde como residencia real castellana y de sus representantes."
+      },
+      {
+        "imagen" : "../img/Granada/6.jpg",
+        "title" : "Fauna",
+        "content" : "Su singularidad artística radica en los interiores de los palacios nazaríes, cuya decoración está entre las cumbres del arte andalusí, así como en su localización y adaptación, generando un paisaje nuevo pero totalmente integrado con la naturaleza preexistente."
+      },
+      {
+        "imagen" : "../img/Granada/7.jpg",
+        "title": "Flora",
+        "content" : "Además, alberga un museo de arte andalusí, la pinacoteca principal de la ciudad así como un antiguo convento convertido en Parador nacional."
+      }
+    ]
+  },
+  {
+    "pagina" : "Cordoba",
+    "carousel" : ["../img/Cordoba/1.jpg", "../img/Cordoba/2.jpg", "../img/Cordoba/3.jpg"],
+    "cards" : [
+      {
+        "imagen" : "../img/Cordoba/4.jpg",
+        "title": "Datos",
+        "content" : "Córdoba es una provincia del sur de España, en la parte norte-central de la comunidad autónoma de Andalucía. Su capital es Córdoba. El gobierno de la provincia es ejercido por la Diputación Provincial de Córdoba."
+      },
+      {
+        "imagen" : "../img/Cordoba/5.jpg",
+        "title": "Ciudad",
+        "content" : "Su área es 13 771 km². Su población es de 785 240 habitantes (2019). Más del 40% vive en la capital, y su densidad demográfica es de 57,24 hab/km²."
+      },
+      {
+        "imagen" : "../img/Cordoba/6.jpg",
+        "title" : "Fauna",
+        "content" : "En campo de plata un león rampante de gules (rojo o púrpura de la corona de león) ya que Córdoba fue conquistada por Fernando III con soldados de la corona de León. Bordura componada con las armas reales de las coronas de Castilla y León. Al timbre, corona real cerrada. "
+      },
+      {
+        "imagen" : "../img/Cordoba/7.jpg",
+        "title": "Flora",
+        "content" : "La boca del escudo será la del español moderno, es decir: cuadrilongo y redondeado por su base, con 6 unidades de alto (del eje a la punta) por cada 5 unidades de ancho (del flanco diestro al flanco siniestro)."
+      }
+    ]
+  },
+  {
+    "pagina" : "Almeria",
+    "carousel" : ["../img/Almeria/1.jpg", "../img/Almeria/2.jpg", "../img/Almeria/3.jpg"],
+    "cards" : [
+      {
+        "imagen" : "../img/Almeria/4.jpg",
+        "title": "Datos",
+        "content" : "Almería es una provincia española de la comunidad autónoma de Andalucía; situada en el sureste de la península ibérica. Limita con las provincias de Granada al oeste y noroeste; y con Murcia al norte y al noreste; así como con el mar Mediterráneo al este y sur. "
+      },
+      {
+        "imagen" : "../img/Almeria/5.jpg",
+        "title": "Ciudad",
+        "content" : "La capital de la provincia es la ciudad de Almería, situada en el sur de la provincia y en el centro de la bahía homónima. El gobierno y administración de los intereses provinciales está encomendado a la Diputación Provincial de Almería."
+      },
+      {
+        "imagen" : "../img/Almeria/6.jpg",
+        "title" : "Fauna",
+        "content" : "En Tabernas, el único desierto de Europa, se levantan los auténticos escenarios de las películas wéstern americanas, convertidos en el parque temático más original del Mediterráneo. "
+      },
+      {
+        "imagen" : "../img/Almeria/7.jpg",
+        "title": "Flora",
+        "content" : "Oasys MiniHollywood cuenta con espectáculos en vivo, una gran reserva zoológica con más de 800 animales de 200 especies distintas, zona de piscinas y gran oferta de restaurantes, actividades educativas y organización de eventos y celebraciones."
+      }
+    ]
+  }
+]
